@@ -1,1 +1,3 @@
 # Super_market-analysis-powerbi
+
+https://app.powerbi.com/view?r=eyJrIjoiOWJlMWM3NjktODhhNi00NTUwLTljMzMtYjc4ZGVkYjg3ZDNiIiwidCI6IjdhZDg1NGJkLTcwODYtNGViNS1iMTllLTI2NTNhOTJkNGIzZCJ9
